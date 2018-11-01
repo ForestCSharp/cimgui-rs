@@ -1,0 +1,11 @@
+[package]
+name = "cimgui-rs"
+version = "0.1.0"
+authors = ["Forest Sharp <forestcollinssharp@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.42.2"
+cc = "1.0.25"
